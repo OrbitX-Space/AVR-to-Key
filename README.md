@@ -5,16 +5,16 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
 ***Note: This project is built only for Windows.***
 
-1. Download & extract the **zip** file or **clone** this repository.
-2. You should see two `.json` files. These are for your configuration purposes, where `payload.json` is for hardware settings & `keymap.json` is for keymaping the active pins.<br>
+**1.** Download & extract the **zip** file or **clone** this repository.
+**2.** You should see two `.json` files. These are for your configuration purposes, where `payload.json` is for hardware settings & `keymap.json` is for keymaping the active pins.<br>
 
 ## How to use AVR-to-Key?
 
-1. **PAYLOAD.JSON**
+**1.** **PAYLOAD.JSON**
 
 ![payload.json](images/payload.png)
 
-2. Here,<br>
+**2.** Here,<br>
    *i.*    `"COM"` - COM Port through which the microcontroller is talking to the PC. Check **Device Manager** in case if u are not aware of which port.<br>
    <br>
    *ii.*   `"PORTB"` - Array of the currently using **PORT B** pins on the microcontroller. Leave blank if none of the pins belonging to **PORT B** are used.<br>
@@ -40,7 +40,7 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    *xi.* `"additional-flags"` - If you wish to add any flags during **upload** add them with the hyphen as a string. Ex: **"-F"**. Else leave it as it is.<br>
    <br>
    
-3. **KEYMAP.JSON**
+**3.** **KEYMAP.JSON**
    
 ![keymap.json](images/keymap.png)<br>
 
