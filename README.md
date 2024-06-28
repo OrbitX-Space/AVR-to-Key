@@ -14,11 +14,17 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
 4. Here,<br>
    *i.*    `"COM"` - COM Port through which the microcontroller is talking to the PC. Check **Device Manager** in case if u are not aware of which port.<br>
+<br>
    *ii.*   `"PORTB"` - Array of the currently using **PORT B** pins on the microcontroller. Leave blank if none of the pins belonging to **PORT B** are used.<br>
+<br>
    *iii.*  `"PORTC"` - I think you have understood.<br>
+<br>
    *iv.*   `"PORTD"` - Huh, again!<br>
+<br>
    *v.*    `"baud-rate"` - Dev guys know it. If you don't know what it is, just go with `9600` or `115200`.<br>
+<br>
    *vi.*   `"crystal-frq"` - Frequency of the crystal oscillator(Clock) in Hz. Again if you don't know, closely look at the dev board, you should see something like this 🢃<br>
+<br>
    
 ![crystal](images/crystal.png)
   
