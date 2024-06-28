@@ -20,6 +20,6 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    v.    `"baud-rate"` - Dev guys know it. If you don't know what it is, just go with `9600` or `115200`.<br>
    vi.   `"crystal-frq"` - Frequency of the crystal oscillator in Hz. Again if you don't know, closely look at the dev board, you should see something like this 🢃<br>
 
-![Crystal Oscillator](https://en.wikipedia.org/wiki/File:16MHZ_Crystal.jpg)
+<img src="https://github.com/username/repository/raw/main/images/keyboard.png" alt="Custom Keyboard" width="400"><br>
 
   
