@@ -19,7 +19,6 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    *iv.*   `"PORTD"` - Huh, again!<br>
    *v.*    `"baud-rate"` - Dev guys know it. If you don't know what it is, just go with `9600` or `115200`.<br>
    *vi.*   `"crystal-frq"` - Frequency of the crystal oscillator(Clock) in Hz. Again if you don't know, closely look at the dev board, you should see something like this 🢃<br>
-
-<img src="https://en.wikipedia.org/wiki/File:16MHZ_Crystal.jpg" alt="Crystal Oscillator" width="400"><br>
+   
 ![image](https://github.com/OrbitX-Space/AVR-to-Key/assets/134212690/3d0462eb-824b-4bf9-9f9d-cfd309c3ad27)
   
