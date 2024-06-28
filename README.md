@@ -1,4 +1,10 @@
 # AVR-to-Key
+
+<a href='https://twitter.com/OrbitX_Space?t=jEPMn_Dx5wny0qKDew298Q&s=08' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Twitter&logoColor=white&labelColor=08a4f6&color=2f3136'/></a>
+<a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-Passing-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=2aae48'/></a>
+<a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
+
+
 This project demonstrates how to use **AVR** microcontrollers, which do **not** have **native USB keyboard support**, to function as a **USB HID (Human Interface Device) keyboard**. By leveraging the flexibility and power of **AVR** microcontrollers, you can create custom keyboards and input devices for various applications. Or use **physical** buttons as **inputs** for game to experience the realism in your **sim hub**.
 
 Currently **AVR-to-Key** supports only **3** PORTS (B, C, D) on any **AVR mega series** microcontroller. And **does not** recieve any kind of **analog** values (only digital).
