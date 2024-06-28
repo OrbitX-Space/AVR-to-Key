@@ -37,7 +37,8 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    *xi.* `"additional-flags"` - If you wish to add any flags during **upload** add them with the hyphen as a string. Ex: **"-F"**. Else leave it as it is.<br>
    <br>
    
-5. **KEYMAP.JSON**<br>
+5. **KEYMAP.JSON**
+   
 ![keymap.json](images/keymap.png)<br>
 
 
