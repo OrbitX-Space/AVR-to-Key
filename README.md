@@ -31,7 +31,7 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    <br>
    *viii.*  `"mmcu"` - Same as processor replace `m` with `atmega`.<br>
    <br>
-   *ix.* `"programmer-type"` - Programmer name.<br>
+   *ix.* `"programmer-type"` - Programmer.<br>
    <br>
    *x.* `"upl-baud-rate"` - Set it according to your microcontroller. **NOTE:** if you are using Atmega328p (Old Bootloader) then set it to `57600`.<br>
    <br>
