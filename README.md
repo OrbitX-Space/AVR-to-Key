@@ -1,4 +1,4 @@
-# AVR-to-Key
+![image](https://github.com/OrbitX-Space/AVR-to-Key/assets/134212690/3d0462eb-824b-4bf9-9f9d-cfd309c3ad27)# AVR-to-Key
 This project demonstrates how to use AVR microcontrollers, which do not have native USB keyboard support, to function as a USB HID (Human Interface Device) keyboard. By leveraging the flexibility and power of AVR microcontrollers, you can create custom keyboards and input devices for various applications. Or use physical buttons as inputs for game to experience the realism in your sim hub.
 
 ## Installation:
@@ -18,8 +18,8 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    iii.  `"PORTC"` - I think you have understood.<br>
    iv.   `"PORTD"` - Huh, again!<br>
    v.    `"baud-rate"` - Dev guys know it. If you don't know what it is, just go with `9600` or `115200`.<br>
-   vi.   `"crystal-frq"` - Frequency of the crystal oscillator in Hz. Again if you don't know, closely look at the dev board, you should see something like this 🢃<br>
+   vi.   `"crystal-frq"` - Frequency of the crystal oscillator(Clock) in Hz. Again if you don't know, closely look at the dev board, you should see something like this 🢃<br>
 
-<img src="https://github.com/username/repository/raw/main/images/keyboard.png" alt="Custom Keyboard" width="400"><br>
+<img src="https://en.wikipedia.org/wiki/File:16MHZ_Crystal.jpg" alt="Crystal Oscillator" width="400"><br>
 
   
