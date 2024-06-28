@@ -41,5 +41,8 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
    
 ![keymap.json](images/keymap.png)<br>
 
+Here, `"mapB"` belongs to `"PORTB"` & same for other maps & PORTS. You must map them in the order same as of one in `payload.json` PORT array ("PORTB", "PORTC", & "PORTD"). 
+
+Ex: From the images, `"PB0"` is mapped to the letter `W`. That means, then the button connected to the PB0 pin on the microcontroller is pressed, the letter `W` gets typed in the PC. 
 
 
