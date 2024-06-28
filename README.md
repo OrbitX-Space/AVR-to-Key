@@ -27,13 +27,14 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
    
 ![crystal](images/crystal.png)
-  <br>
-  *vii.*   `"processor"` - Write the processor name in this format => `m<serial_number>`.<br>
-  <br>
-  *viii.*  `"mmcu"` - Same as processor replace `m` with `atmega`.<br>
-  <br>
-  *ix.* `"programmer-type"` - Programmer name.<br>
-  <br>
-  *x.* `"upl-baud-rate"` - Set it according to your microcontroller. **NOTE:** if you are using Atmega328p (Old Bootloader) then set it to `57600`.<br>
-  <br>
-  *xi.* `"additional-flags"` - If you wish to add any flags during **upload** add them with the hyphen as a string. Ex: "-F". Else leave it as it is.
+   <br>
+   *vii.*   `"processor"` - Write the processor name in this format => `m<serial_number>`.<br>
+   <br>
+   *viii.*  `"mmcu"` - Same as processor replace `m` with `atmega`.<br>
+   <br>
+   *ix.* `"programmer-type"` - Programmer name.<br>
+   <br>
+   *x.* `"upl-baud-rate"` - Set it according to your microcontroller. **NOTE:** if you are using Atmega328p (Old Bootloader) then set it to `57600`.<br>
+   <br>
+   *xi.* `"additional-flags"` - If you wish to add any flags during **upload** add them with the hyphen as a string. Ex: "-F". Else leave it as it is.<br>
+   <br>
