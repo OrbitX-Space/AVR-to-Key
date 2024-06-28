@@ -1,0 +1,13 @@
+{
+      "COM": "89",
+      "PORTB": [ "PB7", "PB8" ],
+      "PORTC": [],
+      "PORTD": [],
+      "baud-rate": 11500,
+      "crystal-frq": 1000000,
+      "processor": "m328p",
+	  "mmcu": "atmega328p",
+      "programmer-type": "avrisp",
+      "upl-baud-rate": 5,
+	  "additional-flags": []
+}
