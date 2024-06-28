@@ -27,7 +27,7 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
    
 ![crystal](images/crystal.png)
-  
+  <br>
   *vii.*   `"processor"` - Write the processor name in this format => `m<serial_number>`.<br>
   <br>
   *viii.*  `"mmcu"` - Same as processor replace `m` with `atmega`.<br>
