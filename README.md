@@ -3,11 +3,12 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
 ## Installation:
 
-***Note: This project is built only for Windows***
+***Note: This project is built only for Windows.***
 
 1. Download & extract the **zip** file or **clone** this repository.
 2. You should see 2 `.json` files. These are for your configuration purposes, where `payload.json` is for hardware settings & `keymap.json` is for keymaping the active pins.
 3. **PAYLOAD**
+
 ![payload.json](images/payload.png)
 
 4. 
