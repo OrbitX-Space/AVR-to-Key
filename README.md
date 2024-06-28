@@ -12,7 +12,7 @@ This project demonstrates how to use AVR microcontrollers, which do not have nat
 
 ![payload.json](images/payload.png)
 
-4. Here,
+4. Here,<br>
    i.    `"COM"` - COM Port through which the microcontroller is talking to the PC. Check **Device Manager** in case if u are not aware of which port.<br>
    ii.   `"PORTB"` - Array of the currently using **PORT B** pins on the microcontroller. Leave blank if none of the pins belonging to **PORT B** are used.<br>
    iii.  `"PORTC"` - I think you have understood.<br>
