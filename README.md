@@ -42,7 +42,7 @@ Currently **AVR-to-Key** supports only **3** PORTS (B, C, D) on any **AVR mega s
    <br>
    *vii.*   `"processor"` - Write the processor name in this format => `m<serial_number>`.<br>
    <br>
-   *viii.*  `"mmcu"` - Same as processor replace `m` with `atmega`.<br>
+   *viii.*  `"mmcu"` - Same as processor, replace `m` with `atmega`.<br>
    <br>
    *ix.* `"programmer-type"` - Programmer.<br>
    <br>
