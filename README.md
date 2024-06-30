@@ -16,6 +16,7 @@ Currently **AVR-to-Key** supports only **3** PORTS (B, C, D) on any **AVR mega s
 ***Note: This project is built only for Windows.***
 
 **1.** Download & extract the **zip** file or **clone** this repository.
+
 **2.** You should see two `.json` files. These are for your configuration purposes, where `payload.json` is for hardware settings & `keymap.json` is for keymaping the active pins.<br>
 
 ## How to use AVR-to-Key?
