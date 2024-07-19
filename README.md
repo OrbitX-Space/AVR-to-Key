@@ -48,14 +48,14 @@ Currently **AVR-to-Key** supports only **3** PORTS (B, C, D) on any **AVR mega s
    <br>
    *x.* `"upl-baud-rate"` - Set it according to your microcontroller. **NOTE:** if you are using Atmega328p (Old Bootloader) then set it to `57600`.<br>
    <br>
-   *xi.* `"additional-flags"` - If you wish to add any flags during **upload** add them with the hyphen as a string. Ex: **"-F"**. Else leave it as it is.<br>
+   *xi.* `"additional-flags"` - If you wish to add any flags during **upload**, add them with the hyphen as a string. Ex: **"-F"**. Else leave it as it is.<br>
    <br>
    
 **3.** **KEYMAP.JSON**
    
 ![keymap.json](images/keymap.png)<br>
 
-Here, `"mapB"` belongs to `"PORTB"` & same for other maps & PORTS. You must map them in the order same as of one in `payload.json` PORT array ("PORTB", "PORTC", & "PORTD"). 
+Here, `"mapB"` belongs to `"PORTB"` & same for other maps & PORTS. You must map them in the same order as of one in `payload.json` PORT array ("PORTB", "PORTC", & "PORTD"). 
 
 Ex: From the images, `"PB0"` is mapped to the letter `W`. That means, when the button (connected to the PB0 pin on the microcontroller) is pressed, the letter `W` gets typed on your PC. 
 
